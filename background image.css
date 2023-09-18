@@ -1,0 +1,24 @@
+#one{
+   height: 200px; 
+   width: 200px;
+   border: 2px solid black;
+   background-image: url(box3_image.jpg);
+   background-size: contain;
+}
+#two{
+    height: 200px; 
+    width: 200px;
+    border: 2px solid black;
+    background-image: url(cat.jpeg);
+    background-size: cover;  
+}
+#flex{
+    display: inline-block;
+}
+#box{
+    height: 200px; 
+    width: 200px;
+    border: 2px solid black;
+    background-image: url(cat.jpeg);
+    background-size: cover;  
+}
